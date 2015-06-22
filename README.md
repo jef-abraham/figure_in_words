@@ -16,4 +16,5 @@ A ruby script which translate USD($) amount to Rupee(INR) in words.
 ```
 
 'b' and 'B' is for Billion
+
 'm' and 'M' is for Million
